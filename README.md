@@ -1,6 +1,6 @@
 # CanITrustTheExplainer
 
-This repo contains the evaluation tests from "Can I Trust the Explainer? Verifying Post-hoc Explanatory Methods" [PDF](https://arxiv.org/abs/1910.02065)
+This repo contains the evaluation tests from "Can I Trust the Explainer? Verifying Post-hoc Explanatory Methods" [[PDF]](https://arxiv.org/abs/1910.02065)
 
 
 If you use our evaluation tests, please cite:
