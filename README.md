@@ -4,6 +4,7 @@ This repo contains the evaluation tests from "Can I Trust the Explainer? Verifyi
 
 
 If you use our evaluation tests, please cite:
+```
 @InProceedings{verify,
     title={Can I Trust the Explainer? Verifying Post-hoc Explanatory Methods},
     author={Oana-Maria Camburu and Eleonora Giunchiglia and Jakob Foerster and Thomas Lukasiewicz and Phil Blunsom},
